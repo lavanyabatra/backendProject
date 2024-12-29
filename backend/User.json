@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Lavanya Batra",
+    "email": "lavanya2051.be23@chitkara.edu.in",
+    "password": "hello",
+    "contact": "06239554438",
+    "gender": "Female",
+    "address": "#1209 New Light Co-operative Society Ltd Sector 51-B",
+    "department": "Engineering"
+  },
+  {
+    "name": "Aditya Kanwar",
+    "email": "adityakanwar22@gmail.com",
+    "password": "12345",
+    "contact": "8894908598",
+    "gender": "Male",
+    "address": "#2221/B Block-12 CHB Flats Sector-63 Chandigarh",
+    "department": "Engineering"
+  },
+  {
+    "name": "Akshit Choudhary",
+    "email": "aki29choudhary@gmail.com",
+    "password": "akshit290305",
+    "contact": "9988003774",
+    "gender": "Male",
+    "address": "#457",
+    "department": "Engineering"
+  },
+  {
+    "name": "Lavanya Batra",
+    "email": "lavanya2051.be23@chitkara.edu.in",
+    "password": "hello",
+    "contact": "06239554438",
+    "gender": "Female",
+    "address": "#1209 New Light Co-operative Society Ltd Sector 51-B",
+    "department": "Engineering"
+  }
+]
